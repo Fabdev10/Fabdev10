@@ -3,9 +3,13 @@ I am a Full Stack Web Developer with a passion for creating efficient, scalable,
 
 Key Skills:
 Front-End: Expertise in HTML, CSS, JavaScript, React.
+
 Back-End: Proficient in server-side languages and frameworks such as Node.js.
+
 Databases: Hands-on experience with NoSQL databases (MongoDB, Firebase).
+
 Version Control: Advanced knowledge of Git and collaborative workflows (GitHub, GitLab, Bitbucket).
+
 Professional Highlights:
 Built and maintained responsive websites and applications with seamless user experiences.
 Successfully integrated APIs and third-party services to enhance application functionality.
