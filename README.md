@@ -1,20 +1,15 @@
 Hello!
-I am a Full Stack Web Developer with a passion for creating efficient, scalable, and user-friendly web applications. Skilled in both front-end and back-end development, with a strong foundation in modern programming languages, frameworks, and technologies. Adept at translating business requirements into technical solutions and delivering high-quality products on time.
+I'm a Passionate Full Stack Web Developer with a strong background in creating dynamic, high-performance web applications. Proficient in both front-end and back-end development, leveraging modern frameworks and libraries to deliver seamless user experiences and robust, scalable solutions.
 
 Key Skills:
-Front-End: Expertise in HTML, CSS, JavaScript, React.
+Front-End: HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS 
 
-Back-End: Proficient in server-side languages and frameworks such as Node.js.
+Back-End: Node.js, Express, MongoDB, Mongoose, RESTful APIs
 
-Databases: Hands-on experience with NoSQL databases (MongoDB, Firebase).
+Other Tools & Technologies: Visual Studio Code, Git, GitHub, Bootstrap, Redux-Toolkit, React / Tanstack Query
 
-Version Control: Advanced knowledge of Git and collaborative workflows (GitHub, GitLab, Bitbucket).
-
-Professional Highlights:
-Built and maintained responsive websites and applications with seamless user experiences.
-Successfully integrated APIs and third-party services to enhance application functionality.
-Optimized web applications for speed and scalability, ensuring cross-platform compatibility.
-Worked in agile environments, collaborating closely with designers, developers, and stakeholders to deliver projects efficiently.
+My Approach:
+I am driven by a love for coding and a commitment to continuous earning. Whether it’s through experimenting with new technologies or refining existing skills, I strive to deliver high-quality, maintainable code. My goal is to build applications that not only meet user needs but also push the boundaries of what’s possible on the web.
 Personal Traits:
 Problem solver with a detail-oriented approach to debugging and optimizing code.
 Lifelong learner who stays updated with the latest web development trends and technologies.
