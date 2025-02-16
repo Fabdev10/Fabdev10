@@ -11,7 +11,8 @@ I'm a Passionate Full Stack Web Developer with a strong background in creating d
 
 🚀 My Approach:
 I am driven by a love for coding and a commitment to continuous earning. Whether it’s through experimenting with new technologies or refining existing skills, I strive to deliver high-quality, maintainable code. My goal is to build applications that not only meet user needs but also push the boundaries of what’s possible on the web.
-Personal Traits:
+
+👉 Personal Traits:
 Problem solver with a detail-oriented approach to debugging and optimizing code.
 Lifelong learner who stays updated with the latest web development trends and technologies.
 Strong communicator and team player, capable of leading projects or contributing to collaborative efforts.
