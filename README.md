@@ -1,19 +1,5 @@
-Hello!
-I'm a Passionate Full Stack Web Developer with a strong background in creating dynamic, high-performance web applications. Proficient in both front-end and back-end development, leveraging modern frameworks and libraries to deliver seamless user experiences and robust, scalable solutions.
+I'm a Full-Stack Web Developer passionate about building modern, scalable web applications. I work across both front-end and back-end, using modern tools and frameworks to create efficient, high-performance solutions and smooth user experiences.
 
- 🎯  Key Skills:
- 
- 📢 Front-End: HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS 
+At the same time, I'm expanding my skills in Cloud Engineering and DevOps, focusing on building and deploying applications in scalable cloud environments.I enjoy turning ideas into real applications and writing clean, maintainable code. I'm constantly learning and experimenting with new technologies to improve my skills and build more scalable systems.
 
-💡  Back-End: Node.js, Express, MongoDB, Mongoose, RESTful APIs
-
- 🔎 Other Tools & Technologies: Visual Studio Code, Git, GitHub, Bootstrap, Redux-Toolkit, React / Tanstack Query
-
-🚀 My Approach:
-I am driven by a love for coding and a commitment to continuous earning. Whether it’s through experimenting with new technologies or refining existing skills, I strive to deliver high-quality, maintainable code. My goal is to build applications that not only meet user needs but also push the boundaries of what’s possible on the web.
-
-👉 Personal Traits:
-Problem solver with a detail-oriented approach to debugging and optimizing code.
-Lifelong learner who stays updated with the latest web development trends and technologies.
-Strong communicator and team player, capable of leading projects or contributing to collaborative efforts.
-Available for freelance, remote, or full-time opportunities to help bring innovative ideas to life on the web.
+Currently, I'm deepening my knowledge of cloud technologies, infrastructure, and modern DevOps practices to transition toward a Cloud Engineer role.
