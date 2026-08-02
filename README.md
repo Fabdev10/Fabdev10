@@ -1,7 +1,7 @@
-Currently working as a Full-Stack Web Developer, I'm passionate about building modern, scalable web applications. I work across both front-end and back-end, using modern tools and frameworks to create efficient, high-performance solutions and smooth user experiences. 🚀
+I'm a Full-Stack Web Developer transitioning into Cloud & DevOps Engineering, combining software development with cloud infrastructure, automation, and modern deployment practices. 
 
-At the same time, I'm expanding my skills in Cloud Engineering and DevOps, focusing on building and deploying applications in scalable cloud environments. I have already achieved the AWS Certified Cloud Practitioner, the AWS Certified Solutions Architect – Associate and the CloudOps Engineer - Associate certifications, strengthening my knowledge of cloud architecture and best practices. ☁️
+My background in full-stack development gives me a solid understanding of the entire application lifecycle, from designing user-facing features to developing backend services. Today, I'm focused on building cloud-native solutions using AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, and Linux, with a strong emphasis on automation, Infrastructure as Code, and CI/CD.
 
-I enjoy turning ideas into real applications and writing clean, maintainable code. I'm constantly learning and experimenting with new technologies to improve my skills and build more scalable systems. 🎯
+I hold the AWS Certified Cloud Practitioner, AWS Certified Solutions Architect – Associate, and AWS Certified CloudOps Engineer – Associate certifications, which have strengthened my understanding of cloud architecture, operations, and best practices.
 
-Currently, I'm deepening my knowledge of cloud technologies, infrastructure, and modern DevOps practices to continue growing toward a Cloud Engineer role.
+I enjoy designing scalable systems, automating repetitive tasks, and continuously improving deployment workflows. My goal is to grow as a DevOps / Cloud Engineer, helping teams deliver reliable, secure, and scalable software.
